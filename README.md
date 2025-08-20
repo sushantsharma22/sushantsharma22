@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-**Master's student in Applied Computing** at the University of Windsor with a strong foundation in software engineering and a passion for AI and machine learning. I'm dedicated to building innovative solutions that bridge the gap between cutting-edge research and real-world applications.
+**Master's graduate in Applied Computing** from the University of Windsor with a strong foundation in software engineering and a passion for AI and machine learning. I'm a lifelong learner, always learning and innovating, with a passion for continuous growth and impactful technology solutions. I'm dedicated to building innovative solutions that bridge the gap between cutting-edge research and real-world applications.
 
 - 🎓 **Education**: Master's in Applied Computing, University of Windsor
 - 🌍 **Location**: Canada
@@ -55,8 +55,6 @@
 ![SHA256](https://img.shields.io/badge/SHA256-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-4A90E2?style=for-the-badge&logo=security&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
 ### 🎨 [NeuralCanvas-AR](https://github.com/sushantsharma22/NeuralCanvas-AR-)
@@ -94,27 +92,21 @@ Implementation of SEAL: Self-Improving Language Models via Reward-Guided Self-Ed
 • **Tech Stack**: Python, Transformers, Natural Language Processing
 • **Research**: Advanced self-improving AI systems
 
----
-
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sushantsharma22.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sushantsharma22.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushantsharma22/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sushant2207)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7922-7146)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma8x@uwindsor.ca)
 
----
-
 ## 💡 Let's Collaborate
 
-- 🔬 **Research**: Advanced AI/ML techniques and their real-world applications
-- 🏗️ **Development**: Building scalable, efficient software solutions
-- 🌱 **Learning**: Exploring cutting-edge technologies in AI and software engineering
-- 🤝 **Open to**: Exciting projects and research opportunities
+- • 🔬 **Research**: Advanced AI/ML techniques and their real-world applications
+- • 🏗️ **Development**: Building scalable, efficient software solutions
+- • 🌱 **Learning**: Exploring cutting-edge technologies in AI and software engineering
+- • 🤝 **Open to**: Exciting projects and research opportunities
 
----
-
-**⭐ "Innovation distinguishes between a leader and a follower." - Steve Jobs**
+⭐ "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaborations. 🚀
